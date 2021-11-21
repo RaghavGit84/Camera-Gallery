@@ -147,7 +147,21 @@ video {
     z-index: 1;
 }
 
+.material-icons {
+    color: white;
+    font-size: 2.2rem;
+}
 
+.gallery {
+    position: absolute;
+    right: 6.4rem;
+    bottom: 7rem;
+    z-index: 2;
+}
+
+.gallery:hover {
+    cursor: pointer;
+}
 
 
 
